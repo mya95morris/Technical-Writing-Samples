@@ -16,11 +16,11 @@ position at a Fintech startup.
  I never really paid attention to the technical documentation that I utilized to help me along the way.
  However, when I began to realize that I had a passion for teaching and breaking down complex information into terms that everyone
  could understand, it became blatantly obvious to me how important these documents were. Certain things seem like they're just *there*,
- and most people don't understand that there are actual people developing these resorces that we all rely on.
+ and most people don't understand that there are actual people developing these resources that we all rely on.
  
  I soon found myself trying to discover my passion. I'd always been great at math, but that wasn't what I wanted to do with my life.
  I needed creativity! I needed to express myself, and interact with others! But teaching wasn't for me, either. Working with disabled and 
- underpriviliged students depleted my mental health and my energy. This is when I began to study software development and data analytics.
+ underprivileged students depleted my mental health and my energy. This is when I began to study software development and data analytics.
  
  I've dedicated hundreds of hours to studying. Between work shifts, late nights,"overnighters"... I was addicted to learning more! And there
  was so much to learn. There still is, and I am dedicated to learning.
