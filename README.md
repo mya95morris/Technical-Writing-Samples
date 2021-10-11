@@ -1,5 +1,5 @@
 # Technical-Writing-Samples
-These are some examples of technical writing (without confidential information) that I've worked on in my current 
+These are some examples of content (without confidential information) that I've worked on in my current 
 position at a Fintech startup.
 ## Table of contents
 
