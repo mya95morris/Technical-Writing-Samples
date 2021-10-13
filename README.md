@@ -42,5 +42,8 @@ In this example, I noticed a HUGE volume of tickets in Zendesk, specifically Spa
 time. I used Chartio and AWS metrics to support my hypothesis, pinpoint the cause, and create a Zendesk macro that would ensure that agents could efficiently 
 transfer these tickets to the Spanish Speaking agents' inboxes. 
 
+### Clear Cache and Cookies
+In my current position, we have recently been in the middle of a huge software update. Prior to the launch, I was able to help the engineering teams with software testing and data migration. However, on the day of launch, there were a lot of hiccups that resulted in the servicing agents needing to clear cache and cookies as more updates were being pushed through. ["here"](ClearCache.pdf) I created a simple how-to document that would help some agents that were less technically-inclined. Prior to this, many of the agents had also cleared things like their passwords and their magical text responses!
+
 ## The Author
 - Website - [Mya Morris](https://jolly-beaver-a96201.netlify.app/)
