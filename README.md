@@ -7,6 +7,7 @@ position at a Fintech startup.
   - [Why I Love Technical Writing](#why-i-love-technical-writing)
   - [Magical Text](#magical-text)
   - [Spanish Servicing](#spanish-servicing)
+  - [How to Clear Cache and Cookies](#clear-cache-and-cookies)
   - [The Author](#the-author)
   
   
@@ -30,20 +31,13 @@ position at a Fintech startup.
  might've never had the opportunity or privilege to learn. :)
  
 ## Magical Text
-In this example, I used Chartio and AWS data and metrics to create [“magical”](https://community.getmagical.com/)
-text responses to improve agent phone after work time, because when it comes to customer service, speed is a sign of respect.
-After creating these text responses of my own, I shared them with the rest of my organization and published this documentation
-to the knowledge base so that they could create some of their own. The text shorcuts I've developed alone have saved approximately
-60.5 hours of after call work time!! Not only does this allow our servicing agents to speak with more customers and work more efficiently, it helps them
-out when it is time to get performance bonuses!
+In [this](MLW-Auto-TextExpander.pdf)example, I used Chartio and AWS data and metrics to create [“magical”](https://community.getmagical.com/) text responses to improve agent phone after work time, because when it comes to customer service, speed is a sign of respect. After creating these text responses of my own, I shared them with the rest of my organization and published this documentation to the knowledge base so that they could create some of their own. The text shorcuts I've developed alone have saved approximately 60.5 hours of after call work time!! Not only does this allow our servicing agents to speak with more customers and work more efficiently, it helps them out when it is time to get performance bonuses!
 
 ### Spanish Servicing
-In this example, I noticed a HUGE volume of tickets in Zendesk, specifically Spanish Servicing tasks. This was significantly slowing down agent production 
-time. I used Chartio and AWS metrics to support my hypothesis, pinpoint the cause, and create a Zendesk macro that would ensure that agents could efficiently 
-transfer these tickets to the Spanish Speaking agents' inboxes. 
+In [this](MLW-SpanishCallbackTicketinZendesk-250921-1254.pdf) example, I noticed a HUGE volume of tickets in Zendesk, specifically Spanish Servicing tasks. This was significantly slowing down agent production time. I used Chartio and AWS metrics to support my hypothesis, pinpoint the cause, and create a Zendesk macro that would ensure that agents could efficiently transfer these tickets to the Spanish Speaking agents' inboxes. 
 
 ### Clear Cache and Cookies
-In my current position, we have recently been in the middle of a huge software update. Prior to the launch, I was able to help the engineering teams with software testing and data migration. However, on the day of launch, there were a lot of hiccups that resulted in the servicing agents needing to clear cache and cookies as more updates were being pushed through. ["here"](ClearCache.pdf) I created a simple how-to document that would help some agents that were less technically-inclined. Prior to this, many of the agents had also cleared things like their passwords and their magical text responses!
+In my current position, we have recently been in the middle of a huge software update. Prior to the launch, I was able to help the engineering teams with software testing and data migration. However, on the day of launch, there were a lot of hiccups that resulted in the servicing agents needing to clear cache and cookies as more updates were being pushed through. [Here,](ClearCache.pdf) I created a simple how-to document that would help some agents that were less technically-inclined. Prior to this, many of the agents had also cleared things like their passwords and their magical text responses!
 
 ## The Author
 - Website - [Mya Morris](https://jolly-beaver-a96201.netlify.app/)
